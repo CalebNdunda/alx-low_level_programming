@@ -1,3 +1,3 @@
-#!/bin/sh
-gcc -E $CFILE>e
+#!/bin/bash
+gcc -E $CFILE >> e
 
